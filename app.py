@@ -36,8 +36,8 @@ _max_width_()
 
 c30, c31, c32 = st.beta_columns(3)
 
-with c30:
-    st.image('StreamSuggestLogo.png', width = 325 )
+#with c30:
+#    st.image('StreamSuggestLogo.png', width = 325 )
 
 with c32:
   st.header('')
