@@ -1,8 +1,5 @@
 streamlit
-
-waybackpy
 pandas
-
-base64
 requests
+waybackpy
 
